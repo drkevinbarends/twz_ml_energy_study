@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.001,
+    "layer_sizes": [
+        64,
+        32
+    ],
+    "batch_size": 256,
+    "dropout_rate": 0.2,
+    "use_batchnorm": true
+}
